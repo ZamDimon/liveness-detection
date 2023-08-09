@@ -1,5 +1,10 @@
 # Liveness detection
+
+## Introduction
+
 Code and materials for a research paper about liveness detection.
+
+Model training can be found in the [Andrea Maranesi's research](https://github.com/andreamaranesi/Spoofing-Attack-Detection-2022/tree/main).
 
 ## Confusion matrices
 
