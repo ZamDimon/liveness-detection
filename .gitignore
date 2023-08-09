@@ -1,3 +1,9 @@
+# Datasets
+datasets/3DMAD/3DMAD/images/*
+datasets/CSMAD/CSMAD/images/*
+datasets/MSSpoof/MSSpoof_dataset/images/*
+datasets/Replay_Attack/Replay_Attack/images/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
