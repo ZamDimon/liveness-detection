@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="44d35318-1445-4a67-9dbf-964e69f549f8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/3dmad" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/csmad" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/msspoof" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/model_CSMAD.keras" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/CSMAD.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/training.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/confusion_matrices.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/confusion_matrices.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loader_3dmad.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/loader_csmad.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/loader_msspoof.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/first_task_model.h5" beforeDir="false" afterPath="$PROJECT_DIR$/models/model_our.h5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/model_CSMAD.h5" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2ZmTQRwhQXi3a9XvAkvldmnoZZW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "feature/retraining",
+    "last_opened_file_path": "/Users/alice/Projects/university/research/liveness-detection",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/datasets" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-f630212fe81e-c6172f9078bd-com.jetbrains.pycharm.ds.sharedIndexes.bundled-DS-233.11799.285" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+</project>

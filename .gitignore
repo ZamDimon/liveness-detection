@@ -1,11 +1,6 @@
 # Datasets
-datasets/3DMAD/3DMAD/images/*
-datasets/CSMAD/CSMAD/images/*
-datasets/CSMAD/CSMAD/CSMAD_training_array
-datasets/MSSpoof/MSSpoof_dataset/images/*
-datasets/Replay_Attack/Replay_Attack/images/*
-datasets/Replay_Attack/Replay_Attack/Replay_Attack_training_array
-datasets/Our/training.array
+datasets/replay_attack
+datasets/our.array
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -16,6 +11,7 @@ __pycache__/
 *.so
 
 # Distribution / packaging
+.DS_Store
 .Python
 build/
 develop-eggs/
