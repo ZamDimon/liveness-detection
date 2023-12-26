@@ -5,20 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44d35318-1445-4a67-9dbf-964e69f549f8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/3dmad" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/csmad" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/msspoof" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/model_CSMAD.keras" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/CSMAD.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/training.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loader.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/confusion_matrices.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/confusion_matrices.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/loader_3dmad.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/loader_csmad.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/loader_msspoof.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/first_task_model.h5" beforeDir="false" afterPath="$PROJECT_DIR$/models/model_our.h5" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/model_CSMAD.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/CSMAD.png" beforeDir="false" afterPath="$PROJECT_DIR$/results/CSMAD.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/training.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/training.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
